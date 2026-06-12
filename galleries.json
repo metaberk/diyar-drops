@@ -1,7 +1,7 @@
 {
   "Galleries": [
     {
-      "Name": "Lady of Maçka",
+      "Name": "Lady of Ma\u00e7ka",
       "CreatedAtIso": "2026-06-12T20:30:00",
       "CenterLatitude": 41.0479,
       "CenterLongitude": 28.9921,
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "Name": "Kadıköy Rıhtım",
+      "Name": "Kad\u0131k\u00f6y R\u0131ht\u0131m",
       "CreatedAtIso": "2026-06-12T21:45:00",
       "CenterLatitude": 40.99407,
       "CenterLongitude": 29.0241,
@@ -415,7 +415,7 @@
           "HeadingDegrees": 42
         },
         {
-          "Name": "Synthèse plastique",
+          "Name": "Synth\u00e8se plastique",
           "Latitude": 41.08157268194262,
           "Longitude": 29.043471473505274,
           "ColorR": 1,
@@ -499,7 +499,7 @@
           "HeadingDegrees": 67
         },
         {
-          "Name": "Città Nuova I",
+          "Name": "Citt\u00e0 Nuova I",
           "Latitude": 41.08226733069176,
           "Longitude": 29.04278278181777,
           "ColorR": 1,
@@ -513,7 +513,7 @@
           "HeadingDegrees": 247
         },
         {
-          "Name": "Città Nuova II",
+          "Name": "Citt\u00e0 Nuova II",
           "Latitude": 41.0813207565914,
           "Longitude": 29.043811528089783,
           "ColorR": 1,
@@ -595,6 +595,238 @@
           "WidthMeters": 1.5,
           "HeightMeters": 0,
           "HeadingDegrees": 73
+        }
+      ]
+    },
+    {
+      "Name": "Bebek Sahili",
+      "CreatedAtIso": "2026-06-12T22:50:00",
+      "CenterLatitude": 41.07931879986359,
+      "CenterLongitude": 29.047250747680668,
+      "Anchors": [
+        {
+          "Name": "S1",
+          "Latitude": 41.078516919863596,
+          "Longitude": 29.04763811768067,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "shoes-vincent-van-gogh-met-f5e70f15.jpg",
+          "WidthMeters": 1.4,
+          "HeadingDegrees": 250,
+          "ModelFile": "",
+          "HeightMeters": 0
+        },
+        {
+          "Name": "S2",
+          "Latitude": 41.078623839863596,
+          "Longitude": 29.04758646768067,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "55-water-alexander-syntelis-jones-31dc8c6e.jpg",
+          "WidthMeters": 2.2,
+          "HeadingDegrees": 250,
+          "ModelFile": "",
+          "HeightMeters": 0
+        },
+        {
+          "Name": "S3",
+          "Latitude": 41.078730749863595,
+          "Longitude": 29.04753481768067,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "sunset-bia-massarelli-bia-m-1-2e740074.png",
+          "WidthMeters": 2,
+          "HeadingDegrees": 250,
+          "ModelFile": "",
+          "HeightMeters": 0
+        },
+        {
+          "Name": "S4",
+          "Latitude": 41.078837669863596,
+          "Longitude": 29.04748316768067,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "birdoverhead-wires-adnan-1a55ed8b.jpg",
+          "WidthMeters": 1.8,
+          "HeadingDegrees": 250,
+          "ModelFile": "",
+          "HeightMeters": 0
+        },
+        {
+          "Name": "S5",
+          "Latitude": 41.078944589863596,
+          "Longitude": 29.047431517680668,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "mariposa-casilda-6e9a957f.jpg",
+          "WidthMeters": 1.6,
+          "HeadingDegrees": 250,
+          "ModelFile": "",
+          "HeightMeters": 0
+        },
+        {
+          "Name": "S6",
+          "Latitude": 41.079289099945406,
+          "Longitude": 29.04653331178956,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "named-it-color-ayu-najwa-310bda07.jpg",
+          "WidthMeters": 1.8,
+          "HeadingDegrees": 250,
+          "ModelFile": "",
+          "HeightMeters": 0
+        },
+        {
+          "Name": "S7",
+          "Latitude": 41.07943468443623,
+          "Longitude": 29.04681226152711,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "juliana7-henrique-nagaoka-84543672.jpg",
+          "WidthMeters": 1.6,
+          "HeadingDegrees": 250,
+          "ModelFile": "",
+          "HeightMeters": 0
+        },
+        {
+          "Name": "S8",
+          "Latitude": 41.07924057171017,
+          "Longitude": 29.047155584281015,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "cosmos-within-nur-didem-murtezaoglu-94fcd9f3.jpg",
+          "WidthMeters": 1.8,
+          "HeadingDegrees": 250,
+          "ModelFile": "",
+          "HeightMeters": 0
+        },
+        {
+          "Name": "S9",
+          "Latitude": 41.079372249863596,
+          "Longitude": 29.04722491768067,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "3-fire-of-istanbul-beste-zanny-beste-zan-f1c96dc6.jpg",
+          "WidthMeters": 1.8,
+          "HeadingDegrees": 250,
+          "ModelFile": "",
+          "HeightMeters": 0
+        },
+        {
+          "Name": "S10",
+          "Latitude": 41.079479169863596,
+          "Longitude": 29.04717326768067,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "hello-eliott-lemaire-61b05fd5.jpg",
+          "WidthMeters": 1.6,
+          "HeadingDegrees": 250,
+          "ModelFile": "",
+          "HeightMeters": 0
+        },
+        {
+          "Name": "S11",
+          "Latitude": 41.0795860898636,
+          "Longitude": 29.04712161768067,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "elena-escalante-she-made-it-home-7acb56a1.jpg",
+          "WidthMeters": 1.8,
+          "HeadingDegrees": 250,
+          "ModelFile": "",
+          "HeightMeters": 0
+        },
+        {
+          "Name": "S12",
+          "Latitude": 41.079692999863596,
+          "Longitude": 29.04706996768067,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "untitled-9-yannet-vm-5286eb7b.png",
+          "WidthMeters": 1.8,
+          "HeadingDegrees": 250,
+          "ModelFile": "",
+          "HeightMeters": 0
+        },
+        {
+          "Name": "S13",
+          "Latitude": 41.079799919863596,
+          "Longitude": 29.04701831768067,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "roxana-alice-artist-0a9f87f3.jpg",
+          "WidthMeters": 1.6,
+          "HeadingDegrees": 250,
+          "ModelFile": "",
+          "HeightMeters": 0
+        },
+        {
+          "Name": "S14",
+          "Latitude": 41.0799068398636,
+          "Longitude": 29.04696666768067,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "afterlightimage-rachel-weiswasser-5b90e49b.jpg",
+          "WidthMeters": 1.6,
+          "HeadingDegrees": 250,
+          "ModelFile": "",
+          "HeightMeters": 0
+        },
+        {
+          "Name": "S15",
+          "Latitude": 41.080013749863596,
+          "Longitude": 29.046915017680668,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "000030-aleyna-dogan-b94e372d.jpg",
+          "WidthMeters": 1.6,
+          "HeadingDegrees": 250,
+          "ModelFile": "",
+          "HeightMeters": 0
+        },
+        {
+          "Name": "S16",
+          "Latitude": 41.0801336398636,
+          "Longitude": 29.04689492768067,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "wheat-field-with-cypresses-vincent-van-gogh-met-43a26945.jpg",
+          "WidthMeters": 2.2,
+          "HeadingDegrees": 267,
+          "ModelFile": "",
+          "HeightMeters": 0
         }
       ]
     }
