@@ -1,0 +1,96 @@
+{
+  "Galleries": [
+    {
+      "Name": "Lady of Ma\u00e7ka",
+      "CreatedAtIso": "2026-06-12T20:30:00",
+      "CenterLatitude": 41.0479,
+      "CenterLongitude": 28.9921,
+      "Anchors": [
+        {
+          "Name": "Lady Liberty",
+          "Latitude": 41.0479,
+          "Longitude": 28.9921,
+          "ColorR": 0.3,
+          "ColorG": 0.72,
+          "ColorB": 0.55,
+          "Kind": "model",
+          "ImageFile": "",
+          "WidthMeters": 0,
+          "HeadingDegrees": 315,
+          "ModelFile": "lady-liberty.glb",
+          "HeightMeters": 2.5
+        }
+      ]
+    },
+    {
+      "Name": "Kavac\u0131k Cross",
+      "CreatedAtIso": "2026-06-12T20:40:00",
+      "CenterLatitude": 41.04708,
+      "CenterLongitude": 29.06367,
+      "Anchors": [
+        {
+          "Name": "P1",
+          "Latitude": 41.04708,
+          "Longitude": 29.06367,
+          "ColorR": 1.0,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "piece-1-49cdb77b.jpg",
+          "WidthMeters": 1.5,
+          "HeadingDegrees": 0
+        },
+        {
+          "Name": "P2",
+          "Latitude": 41.04708,
+          "Longitude": 29.063813198090692,
+          "ColorR": 1.0,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "piece-2-b21faac8.jpg",
+          "WidthMeters": 2.0,
+          "HeadingDegrees": 90
+        },
+        {
+          "Name": "P3",
+          "Latitude": 41.046971999892,
+          "Longitude": 29.06367,
+          "ColorR": 1.0,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "piece-3-45427109.jpg",
+          "WidthMeters": 1.2,
+          "HeadingDegrees": 180
+        },
+        {
+          "Name": "P4",
+          "Latitude": 41.04708,
+          "Longitude": 29.063526801909305,
+          "ColorR": 1.0,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "piece-4-8f98a385.jpg",
+          "WidthMeters": 1.8,
+          "HeadingDegrees": 270
+        },
+        {
+          "Name": "P5",
+          "Latitude": 41.047215000135004,
+          "Longitude": 29.06367,
+          "ColorR": 0.3,
+          "ColorG": 0.85,
+          "ColorB": 0.95,
+          "Kind": "model",
+          "ImageFile": "",
+          "ModelFile": "shark-c1f05c51.glb",
+          "WidthMeters": 0,
+          "HeightMeters": 2.0,
+          "HeadingDegrees": 180
+        }
+      ]
+    }
+  ]
+}
