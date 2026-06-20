@@ -1,7 +1,7 @@
 {
   "Galleries": [
     {
-      "Name": "Lady of Ma\u00e7ka",
+      "Name": "Lady of Maçka",
       "CreatedAtIso": "2026-06-12T20:30:00",
       "CenterLatitude": 41.0479,
       "CenterLongitude": 28.9921,
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "Name": "Kad\u0131k\u00f6y R\u0131ht\u0131m",
+      "Name": "Kadıköy Rıhtım",
       "CreatedAtIso": "2026-06-12T21:45:00",
       "CenterLatitude": 40.99407,
       "CenterLongitude": 29.0241,
@@ -415,7 +415,7 @@
           "HeadingDegrees": 42
         },
         {
-          "Name": "Synth\u00e8se plastique",
+          "Name": "Synthèse plastique",
           "Latitude": 41.08157268194262,
           "Longitude": 29.043471473505274,
           "ColorR": 1,
@@ -499,7 +499,7 @@
           "HeadingDegrees": 67
         },
         {
-          "Name": "Citt\u00e0 Nuova I",
+          "Name": "Città Nuova I",
           "Latitude": 41.08226733069176,
           "Longitude": 29.04278278181777,
           "ColorR": 1,
@@ -513,7 +513,7 @@
           "HeadingDegrees": 247
         },
         {
-          "Name": "Citt\u00e0 Nuova II",
+          "Name": "Città Nuova II",
           "Latitude": 41.0813207565914,
           "Longitude": 29.043811528089783,
           "ColorR": 1,
@@ -599,7 +599,7 @@
       ]
     },
     {
-      "Name": "G\u00f6me\u00e7 Park",
+      "Name": "Gömeç Park",
       "CreatedAtIso": "2026-06-12T23:59:00",
       "CenterLatitude": 39.422564963945035,
       "CenterLongitude": 26.799865365028385,
@@ -1001,7 +1001,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "View of V\u00e9theuil",
+          "Name": "View of Vétheuil",
           "Latitude": 41.07981525,
           "Longitude": 29.05000844,
           "ColorR": 1,
@@ -1215,13 +1215,13 @@
       ]
     },
     {
-      "Name": "Monet to Matisse \u00b7 AGO",
+      "Name": "Monet to Matisse · AGO",
       "CreatedAtIso": "2026-06-16T12:00:00",
       "CenterLatitude": 41.07902,
       "CenterLongitude": 29.0094,
       "Anchors": [
         {
-          "Name": "Woman with a Parasol \u2014 Monet",
+          "Name": "Woman with a Parasol — Monet",
           "Latitude": 41.07960590205508,
           "Longitude": 29.009208977222446,
           "ColorR": 1,
@@ -1235,7 +1235,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "Low Tide at Pourville \u2014 Monet",
+          "Name": "Low Tide at Pourville — Monet",
           "Latitude": 41.07932890911698,
           "Longitude": 29.00938600301743,
           "ColorR": 1,
@@ -1249,7 +1249,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "The Monet Family in Their Garden \u2014 Manet",
+          "Name": "The Monet Family in Their Garden — Manet",
           "Latitude": 41.07911,
           "Longitude": 29.0096068,
           "ColorR": 1,
@@ -1263,7 +1263,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "Boulevard Montmartre, Winter Morning \u2014 Pissarro",
+          "Name": "Boulevard Montmartre, Winter Morning — Pissarro",
           "Latitude": 41.0789973247947,
           "Longitude": 29.009844660758976,
           "ColorR": 1,
@@ -1277,7 +1277,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "The Rehearsal of the Ballet Onstage \u2014 Degas",
+          "Name": "The Rehearsal of the Ballet Onstage — Degas",
           "Latitude": 41.07845748576456,
           "Longitude": 29.009683728218082,
           "ColorR": 1,
@@ -1291,7 +1291,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "L'Apr\u00e8s-midi des enfants \u00e0 Wargemont \u2014 Renoir",
+          "Name": "L'Après-midi des enfants à Wargemont — Renoir",
           "Latitude": 41.07844939825475,
           "Longitude": 29.010187983512882,
           "ColorR": 1,
@@ -1305,7 +1305,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "Mont Sainte-Victoire \u2014 C\u00e9zanne",
+          "Name": "Mont Sainte-Victoire — Cézanne",
           "Latitude": 41.07872437303024,
           "Longitude": 29.00961935520172,
           "ColorR": 1,
@@ -1319,7 +1319,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "Le Canal du Loing \u2014 Sisley",
+          "Name": "Le Canal du Loing — Sisley",
           "Latitude": 41.07878502907586,
           "Longitude": 29.009297490119938,
           "ColorR": 1,
@@ -1333,7 +1333,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "Femme au jardin \u2014 Morisot",
+          "Name": "Femme au jardin — Morisot",
           "Latitude": 41.07903978385618,
           "Longitude": 29.009203612804416,
           "ColorR": 1,
@@ -1347,7 +1347,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "Boats in a Port \u2014 Matisse",
+          "Name": "Boats in a Port — Matisse",
           "Latitude": 41.079201532410565,
           "Longitude": 29.009096324443817,
           "ColorR": 1,
@@ -1361,7 +1361,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "Eyes of the Storm 1963\u201364 \u2014 McCartney [DEVONLY]",
+          "Name": "Eyes of the Storm 1963–64 — McCartney [DEVONLY]",
           "Latitude": 41.07941382678413,
           "Longitude": 29.008935391902927,
           "ColorR": 1,
@@ -1375,7 +1375,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "My '90s Photographs \u2014 Auf der Maur [DEVONLY]",
+          "Name": "My '90s Photographs — Auf der Maur [DEVONLY]",
           "Latitude": 41.07972114694822,
           "Longitude": 29.00889247655869,
           "ColorR": 1,
@@ -1391,7 +1391,7 @@
       ]
     },
     {
-      "Name": "Alte Nationalgalerie \u00b7 NL test",
+      "Name": "Alte Nationalgalerie · NL test",
       "CreatedAtIso": "2026-06-20T00:00:00",
       "CenterLatitude": 52.546611,
       "CenterLongitude": 4.912542,
@@ -1605,6 +1605,224 @@
           "HeadingDegrees": 156,
           "ModelFile": "",
           "HeightMeters": 0
+        }
+      ]
+    },
+    {
+      "Name": "Guggenheim NY (test)",
+      "CreatedAtIso": "2026-06-20T00:00:00",
+      "CenterLatitude": 41.02198,
+      "CenterLongitude": 29.13086,
+      "Anchors": [
+        {
+          "Name": "Several Circles — Kandinsky",
+          "Latitude": 41.022115,
+          "Longitude": 29.13086,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "several-circles-wassily-kandinsky-guggenheim-a4d32aac.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 180.0
+        },
+        {
+          "Name": "Composition 8 — Kandinsky",
+          "Latitude": 41.02210333,
+          "Longitude": 29.13093278,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "composition-8-wassily-kandinsky-guggenheim-203db4ee.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 204.0
+        },
+        {
+          "Name": "Blue Mountain — Kandinsky",
+          "Latitude": 41.02207033,
+          "Longitude": 29.13099298,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "blue-mountain-wassily-kandinsky-guggenheim-43853643.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 228.0
+        },
+        {
+          "Name": "Landscape with Factory Chimney — Kandinsky",
+          "Latitude": 41.02202172,
+          "Longitude": 29.13103018,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "landscape-with-factory-chimney-wassily-kandinsky-guggenheim-a47dfadd.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 252.0
+        },
+        {
+          "Name": "Landscape with Red Spots — Kandinsky",
+          "Latitude": 41.02196589,
+          "Longitude": 29.13103796,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "landscape-with-red-spots-wassily-kandinsky-guggenheim-3ebf27d0.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 276.0
+        },
+        {
+          "Name": "Circular Forms — Delaunay",
+          "Latitude": 41.0219125,
+          "Longitude": 29.13101496,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "circular-forms-robert-delaunay-guggenheim-462c3a02.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 300.0
+        },
+        {
+          "Name": "Red Eiffel Tower — Delaunay",
+          "Latitude": 41.02187078,
+          "Longitude": 29.13096518,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "red-eiffel-tower-robert-delaunay-guggenheim-10efd7e1.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 324.0
+        },
+        {
+          "Name": "Window on the City No. 3 — Delaunay",
+          "Latitude": 41.02184795,
+          "Longitude": 29.1308972,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "window-on-the-city-no-3-robert-delaunay-guggenheim-fba4e074.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 348.0
+        },
+        {
+          "Name": "Simultaneous Windows — Delaunay",
+          "Latitude": 41.02184795,
+          "Longitude": 29.1308228,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "simultaneous-windows-robert-delaunay-guggenheim-09aa3266.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 12.0
+        },
+        {
+          "Name": "The Yellow Cow — Marc",
+          "Latitude": 41.02187078,
+          "Longitude": 29.13075482,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "the-yellow-cow-franz-marc-guggenheim-e8f1d9ec.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 36.0
+        },
+        {
+          "Name": "Broken Forms — Marc",
+          "Latitude": 41.0219125,
+          "Longitude": 29.13070504,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "broken-forms-franz-marc-guggenheim-dffdd2ad.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 60.0
+        },
+        {
+          "Name": "Portrait of an Army Doctor — Gleizes",
+          "Latitude": 41.02196589,
+          "Longitude": 29.13068204,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "portrait-of-an-army-doctor-albert-gleizes-guggenheim-fa94f1dd.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 84.0
+        },
+        {
+          "Name": "Nude Model in the Studio — Leger",
+          "Latitude": 41.02202172,
+          "Longitude": 29.13068982,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "nude-model-in-the-studio-fernand-leger-guggenheim-e426b232.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 108.0
+        },
+        {
+          "Name": "Tableau No. 2 — Mondrian",
+          "Latitude": 41.02207033,
+          "Longitude": 29.13072702,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "tableau-no-2-piet-mondrian-guggenheim-c21c5bac.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 132.0
+        },
+        {
+          "Name": "Landscape — Scharl",
+          "Latitude": 41.02210333,
+          "Longitude": 29.13078722,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "landscape-josef-scharl-guggenheim-09aaef8f.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 156.0
         }
       ]
     }
