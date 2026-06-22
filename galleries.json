@@ -1,7 +1,7 @@
 {
   "Galleries": [
     {
-      "Name": "Lady of Maçka",
+      "Name": "Lady of Ma\u00e7ka",
       "CreatedAtIso": "2026-06-12T20:30:00",
       "CenterLatitude": 41.0479,
       "CenterLongitude": 28.9921,
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "Name": "Kadıköy Rıhtım",
+      "Name": "Kad\u0131k\u00f6y R\u0131ht\u0131m",
       "CreatedAtIso": "2026-06-12T21:45:00",
       "CenterLatitude": 40.99407,
       "CenterLongitude": 29.0241,
@@ -415,7 +415,7 @@
           "HeadingDegrees": 42
         },
         {
-          "Name": "Synthèse plastique",
+          "Name": "Synth\u00e8se plastique",
           "Latitude": 41.08157268194262,
           "Longitude": 29.043471473505274,
           "ColorR": 1,
@@ -499,7 +499,7 @@
           "HeadingDegrees": 67
         },
         {
-          "Name": "Città Nuova I",
+          "Name": "Citt\u00e0 Nuova I",
           "Latitude": 41.08226733069176,
           "Longitude": 29.04278278181777,
           "ColorR": 1,
@@ -513,7 +513,7 @@
           "HeadingDegrees": 247
         },
         {
-          "Name": "Città Nuova II",
+          "Name": "Citt\u00e0 Nuova II",
           "Latitude": 41.0813207565914,
           "Longitude": 29.043811528089783,
           "ColorR": 1,
@@ -595,6 +595,154 @@
           "WidthMeters": 1.5,
           "HeightMeters": 0,
           "HeadingDegrees": 73
+        }
+      ]
+    },
+    {
+      "Name": "G\u00f6me\u00e7 Park",
+      "CreatedAtIso": "2026-06-12T23:59:00",
+      "CenterLatitude": 39.422564963945035,
+      "CenterLongitude": 26.799865365028385,
+      "Anchors": [
+        {
+          "Name": "A Year in Normandie (detail)",
+          "Latitude": 39.42241575496761,
+          "Longitude": 26.800672751760867,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "a-year-in-normandie-detail-david-hockney-serpentine-devonly-c7a18b5f.jpg",
+          "ModelFile": "",
+          "WidthMeters": 3.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 91
+        },
+        {
+          "Name": "Jack Ransome",
+          "Latitude": 39.42235356394504,
+          "Longitude": 26.800758965028386,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "jack-ransome-orange-tablecloth-david-hockney-serpentine-devonly-e663d0ce.jpg",
+          "ModelFile": "",
+          "WidthMeters": 3,
+          "HeightMeters": 0,
+          "HeadingDegrees": 107
+        },
+        {
+          "Name": "Thomas Mupfupi",
+          "Latitude": 39.42232506394504,
+          "Longitude": 26.800878065028385,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "thomas-mupfupi-pink-tablecloth-david-hockney-serpentine-devonly-82d61bb9.jpg",
+          "ModelFile": "",
+          "WidthMeters": 3,
+          "HeightMeters": 0,
+          "HeadingDegrees": 131
+        },
+        {
+          "Name": "Still Life on Blue Gingham",
+          "Latitude": 39.422257963945036,
+          "Longitude": 26.800977665028384,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "still-life-blue-tablecloth-david-hockney-serpentine-devonly-7526839c.jpg",
+          "ModelFile": "",
+          "WidthMeters": 3,
+          "HeightMeters": 0,
+          "HeadingDegrees": 131
+        },
+        {
+          "Name": "Nature Walk with Paranoia",
+          "Latitude": 39.42219076394503,
+          "Longitude": 26.801077365028384,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "nature-walk-with-paranoia-cecily-brown-serpentine-devonly-acce7911.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.2,
+          "HeightMeters": 0,
+          "HeadingDegrees": 131
+        },
+        {
+          "Name": "The Serpentine Picture",
+          "Latitude": 39.42212366394504,
+          "Longitude": 26.801177065028384,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "the-serpentine-picture-cecily-brown-serpentine-devonly-f98b420a.jpg",
+          "ModelFile": "",
+          "WidthMeters": 3,
+          "HeightMeters": 0,
+          "HeadingDegrees": 129
+        },
+        {
+          "Name": "Three Kittens in a Boat",
+          "Latitude": 39.422059063945035,
+          "Longitude": 26.801279365028385,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "untitled-three-kittens-in-a-boat-cecily-brown-serpentine-devonly-7e3ffefb.jpg",
+          "ModelFile": "",
+          "WidthMeters": 3,
+          "HeightMeters": 0,
+          "HeadingDegrees": 127
+        },
+        {
+          "Name": "Couple",
+          "Latitude": 39.421996963945034,
+          "Longitude": 26.801384465028384,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "couple-cecily-brown-serpentine-devonly-a8efb44e.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.2,
+          "HeightMeters": 0,
+          "HeadingDegrees": 100
+        },
+        {
+          "Name": "Study for Sarn Mere 3",
+          "Latitude": 39.421981163945034,
+          "Longitude": 26.801496665028385,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "study-for-sarn-mere-3-cecily-brown-serpentine-devonly-8341e368.jpg",
+          "ModelFile": "",
+          "WidthMeters": 3,
+          "HeightMeters": 0,
+          "HeadingDegrees": 66
+        },
+        {
+          "Name": "Untitled (from Ladybird)",
+          "Latitude": 39.422022063945036,
+          "Longitude": 26.801617865028383,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "untitled-from-ladybird-cecily-brown-serpentine-devonly-b9816f7e.jpg",
+          "ModelFile": "",
+          "WidthMeters": 3,
+          "HeightMeters": 0,
+          "HeadingDegrees": 66
         }
       ]
     },
@@ -853,7 +1001,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "View of Vétheuil",
+          "Name": "View of V\u00e9theuil",
           "Latitude": 41.07981525,
           "Longitude": 29.05000844,
           "ColorR": 1,
@@ -1067,13 +1215,13 @@
       ]
     },
     {
-      "Name": "Monet to Matisse · AGO",
+      "Name": "Monet to Matisse \u00b7 AGO",
       "CreatedAtIso": "2026-06-16T12:00:00",
       "CenterLatitude": 41.07902,
       "CenterLongitude": 29.0094,
       "Anchors": [
         {
-          "Name": "Woman with a Parasol — Monet",
+          "Name": "Woman with a Parasol \u2014 Monet",
           "Latitude": 41.07960590205508,
           "Longitude": 29.009208977222446,
           "ColorR": 1,
@@ -1087,7 +1235,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "Low Tide at Pourville — Monet",
+          "Name": "Low Tide at Pourville \u2014 Monet",
           "Latitude": 41.07932890911698,
           "Longitude": 29.00938600301743,
           "ColorR": 1,
@@ -1101,7 +1249,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "The Monet Family in Their Garden — Manet",
+          "Name": "The Monet Family in Their Garden \u2014 Manet",
           "Latitude": 41.07911,
           "Longitude": 29.0096068,
           "ColorR": 1,
@@ -1115,7 +1263,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "Boulevard Montmartre, Winter Morning — Pissarro",
+          "Name": "Boulevard Montmartre, Winter Morning \u2014 Pissarro",
           "Latitude": 41.0789973247947,
           "Longitude": 29.009844660758976,
           "ColorR": 1,
@@ -1129,7 +1277,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "The Rehearsal of the Ballet Onstage — Degas",
+          "Name": "The Rehearsal of the Ballet Onstage \u2014 Degas",
           "Latitude": 41.07845748576456,
           "Longitude": 29.009683728218082,
           "ColorR": 1,
@@ -1143,7 +1291,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "L'Après-midi des enfants à Wargemont — Renoir",
+          "Name": "L'Apr\u00e8s-midi des enfants \u00e0 Wargemont \u2014 Renoir",
           "Latitude": 41.07844939825475,
           "Longitude": 29.010187983512882,
           "ColorR": 1,
@@ -1157,7 +1305,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "Mont Sainte-Victoire — Cézanne",
+          "Name": "Mont Sainte-Victoire \u2014 C\u00e9zanne",
           "Latitude": 41.07872437303024,
           "Longitude": 29.00961935520172,
           "ColorR": 1,
@@ -1171,7 +1319,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "Le Canal du Loing — Sisley",
+          "Name": "Le Canal du Loing \u2014 Sisley",
           "Latitude": 41.07878502907586,
           "Longitude": 29.009297490119938,
           "ColorR": 1,
@@ -1185,7 +1333,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "Femme au jardin — Morisot",
+          "Name": "Femme au jardin \u2014 Morisot",
           "Latitude": 41.07903978385618,
           "Longitude": 29.009203612804416,
           "ColorR": 1,
@@ -1199,7 +1347,7 @@
           "HeightMeters": 0
         },
         {
-          "Name": "Boats in a Port — Matisse",
+          "Name": "Boats in a Port \u2014 Matisse",
           "Latitude": 41.079201532410565,
           "Longitude": 29.009096324443817,
           "ColorR": 1,
@@ -1211,11 +1359,39 @@
           "HeadingDegrees": 90,
           "ModelFile": "",
           "HeightMeters": 0
+        },
+        {
+          "Name": "Eyes of the Storm 1963\u201364 \u2014 McCartney [DEVONLY]",
+          "Latitude": 41.07941382678413,
+          "Longitude": 29.008935391902927,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "paul-mccartney-eyes-of-the-storm-1963-64-ago-devonly-b4f19836.jpg",
+          "WidthMeters": 0.8,
+          "HeadingDegrees": 120,
+          "ModelFile": "",
+          "HeightMeters": 0
+        },
+        {
+          "Name": "My '90s Photographs \u2014 Auf der Maur [DEVONLY]",
+          "Latitude": 41.07972114694822,
+          "Longitude": 29.00889247655869,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "melissa-auf-der-maur-my-90s-photographs-ago-devonly-bec1fe06.jpg",
+          "WidthMeters": 0.7,
+          "HeadingDegrees": 150,
+          "ModelFile": "",
+          "HeightMeters": 0
         }
       ]
     },
     {
-      "Name": "Alte Nationalgalerie · NL test",
+      "Name": "Alte Nationalgalerie \u00b7 NL test",
       "CreatedAtIso": "2026-06-20T00:00:00",
       "CenterLatitude": 52.546611,
       "CenterLongitude": 4.912542,
@@ -1439,7 +1615,7 @@
       "CenterLongitude": 29.13086,
       "Anchors": [
         {
-          "Name": "Several Circles — Kandinsky",
+          "Name": "Several Circles \u2014 Kandinsky",
           "Latitude": 41.022115,
           "Longitude": 29.13086,
           "ColorR": 1,
@@ -1453,7 +1629,7 @@
           "HeadingDegrees": 180
         },
         {
-          "Name": "Composition 8 — Kandinsky",
+          "Name": "Composition 8 \u2014 Kandinsky",
           "Latitude": 41.02210333,
           "Longitude": 29.13093278,
           "ColorR": 1,
@@ -1467,7 +1643,7 @@
           "HeadingDegrees": 204
         },
         {
-          "Name": "Blue Mountain — Kandinsky",
+          "Name": "Blue Mountain \u2014 Kandinsky",
           "Latitude": 41.02207033,
           "Longitude": 29.13099298,
           "ColorR": 1,
@@ -1481,7 +1657,7 @@
           "HeadingDegrees": 228
         },
         {
-          "Name": "Landscape with Factory Chimney — Kandinsky",
+          "Name": "Landscape with Factory Chimney \u2014 Kandinsky",
           "Latitude": 41.02202172,
           "Longitude": 29.13103018,
           "ColorR": 1,
@@ -1495,7 +1671,7 @@
           "HeadingDegrees": 252
         },
         {
-          "Name": "Landscape with Red Spots — Kandinsky",
+          "Name": "Landscape with Red Spots \u2014 Kandinsky",
           "Latitude": 41.02196589,
           "Longitude": 29.13103796,
           "ColorR": 1,
@@ -1509,7 +1685,7 @@
           "HeadingDegrees": 276
         },
         {
-          "Name": "Circular Forms — Delaunay",
+          "Name": "Circular Forms \u2014 Delaunay",
           "Latitude": 41.0219125,
           "Longitude": 29.13101496,
           "ColorR": 1,
@@ -1523,7 +1699,7 @@
           "HeadingDegrees": 300
         },
         {
-          "Name": "Red Eiffel Tower — Delaunay",
+          "Name": "Red Eiffel Tower \u2014 Delaunay",
           "Latitude": 41.02187078,
           "Longitude": 29.13096518,
           "ColorR": 1,
@@ -1537,7 +1713,7 @@
           "HeadingDegrees": 324
         },
         {
-          "Name": "Window on the City No. 3 — Delaunay",
+          "Name": "Window on the City No. 3 \u2014 Delaunay",
           "Latitude": 41.02184795,
           "Longitude": 29.1308972,
           "ColorR": 1,
@@ -1551,7 +1727,7 @@
           "HeadingDegrees": 348
         },
         {
-          "Name": "Simultaneous Windows — Delaunay",
+          "Name": "Simultaneous Windows \u2014 Delaunay",
           "Latitude": 41.02184795,
           "Longitude": 29.1308228,
           "ColorR": 1,
@@ -1565,7 +1741,7 @@
           "HeadingDegrees": 12
         },
         {
-          "Name": "The Yellow Cow — Marc",
+          "Name": "The Yellow Cow \u2014 Marc",
           "Latitude": 41.02187078,
           "Longitude": 29.13075482,
           "ColorR": 1,
@@ -1579,7 +1755,7 @@
           "HeadingDegrees": 36
         },
         {
-          "Name": "Broken Forms — Marc",
+          "Name": "Broken Forms \u2014 Marc",
           "Latitude": 41.0219125,
           "Longitude": 29.13070504,
           "ColorR": 1,
@@ -1593,7 +1769,7 @@
           "HeadingDegrees": 60
         },
         {
-          "Name": "Portrait of an Army Doctor — Gleizes",
+          "Name": "Portrait of an Army Doctor \u2014 Gleizes",
           "Latitude": 41.02196589,
           "Longitude": 29.13068204,
           "ColorR": 1,
@@ -1607,7 +1783,7 @@
           "HeadingDegrees": 84
         },
         {
-          "Name": "Nude Model in the Studio — Leger",
+          "Name": "Nude Model in the Studio \u2014 Leger",
           "Latitude": 41.02202172,
           "Longitude": 29.13068982,
           "ColorR": 1,
@@ -1621,7 +1797,7 @@
           "HeadingDegrees": 108
         },
         {
-          "Name": "Tableau No. 2 — Mondrian",
+          "Name": "Tableau No. 2 \u2014 Mondrian",
           "Latitude": 41.02207033,
           "Longitude": 29.13072702,
           "ColorR": 1,
@@ -1635,7 +1811,7 @@
           "HeadingDegrees": 132
         },
         {
-          "Name": "Landscape — Scharl",
+          "Name": "Landscape \u2014 Scharl",
           "Latitude": 41.02210333,
           "Longitude": 29.13078722,
           "ColorR": 1,
@@ -1657,7 +1833,7 @@
       "CenterLongitude": 29.035308,
       "Anchors": [
         {
-          "Name": "Several Circles — Kandinsky",
+          "Name": "Several Circles \u2014 Kandinsky",
           "Latitude": 41.083172334582606,
           "Longitude": 29.035175442695618,
           "ColorR": 1,
@@ -1671,7 +1847,7 @@
           "HeadingDegrees": 180
         },
         {
-          "Name": "Composition 8 — Kandinsky",
+          "Name": "Composition 8 \u2014 Kandinsky",
           "Latitude": 41.08348368061788,
           "Longitude": 29.034805297851566,
           "ColorR": 1,
@@ -1685,7 +1861,7 @@
           "HeadingDegrees": 204
         },
         {
-          "Name": "Blue Mountain — Kandinsky",
+          "Name": "Blue Mountain \u2014 Kandinsky",
           "Latitude": 41.08309753044527,
           "Longitude": 29.035634100437168,
           "ColorR": 1,
@@ -1699,7 +1875,7 @@
           "HeadingDegrees": 228
         },
         {
-          "Name": "Landscape with Factory Chimney — Kandinsky",
+          "Name": "Landscape with Factory Chimney \u2014 Kandinsky",
           "Latitude": 41.08211698185317,
           "Longitude": 29.03472483158112,
           "ColorR": 1,
@@ -1713,7 +1889,7 @@
           "HeadingDegrees": 252
         },
         {
-          "Name": "Landscape with Red Spots — Kandinsky",
+          "Name": "Landscape with Red Spots \u2014 Kandinsky",
           "Latitude": 41.08210889479362,
           "Longitude": 29.035467803478245,
           "ColorR": 1,
@@ -1727,7 +1903,7 @@
           "HeadingDegrees": 276
         },
         {
-          "Name": "Circular Forms — Delaunay",
+          "Name": "Circular Forms \u2014 Delaunay",
           "Latitude": 41.0826689213141,
           "Longitude": 29.035631418228153,
           "ColorR": 1,
@@ -1741,7 +1917,7 @@
           "HeadingDegrees": 300
         },
         {
-          "Name": "Red Eiffel Tower — Delaunay",
+          "Name": "Red Eiffel Tower \u2014 Delaunay",
           "Latitude": 41.08247281148707,
           "Longitude": 29.035784304142002,
           "ColorR": 1,
@@ -1755,7 +1931,7 @@
           "HeadingDegrees": 324
         },
         {
-          "Name": "Window on the City No. 3 — Delaunay",
+          "Name": "Window on the City No. 3 \u2014 Delaunay",
           "Latitude": 41.08229489691095,
           "Longitude": 29.035977423191074,
           "ColorR": 1,
@@ -1769,7 +1945,7 @@
           "HeadingDegrees": 348
         },
         {
-          "Name": "Simultaneous Windows — Delaunay",
+          "Name": "Simultaneous Windows \u2014 Delaunay",
           "Latitude": 41.08258198610217,
           "Longitude": 29.035078883171085,
           "ColorR": 1,
@@ -1783,7 +1959,7 @@
           "HeadingDegrees": 12
         },
         {
-          "Name": "The Yellow Cow — Marc",
+          "Name": "The Yellow Cow \u2014 Marc",
           "Latitude": 41.082486963762236,
           "Longitude": 29.034394919872284,
           "ColorR": 1,
@@ -1797,7 +1973,7 @@
           "HeadingDegrees": 36
         },
         {
-          "Name": "Broken Forms — Marc",
+          "Name": "Broken Forms \u2014 Marc",
           "Latitude": 41.08264668208478,
           "Longitude": 29.03444051742554,
           "ColorR": 1,
@@ -1811,7 +1987,7 @@
           "HeadingDegrees": 60
         },
         {
-          "Name": "Portrait of an Army Doctor — Gleizes",
+          "Name": "Portrait of an Army Doctor \u2014 Gleizes",
           "Latitude": 41.082891313193336,
           "Longitude": 29.034360051155094,
           "ColorR": 1,
@@ -1825,7 +2001,7 @@
           "HeadingDegrees": 84
         },
         {
-          "Name": "Nude Model in the Studio — Leger",
+          "Name": "Nude Model in the Studio \u2014 Leger",
           "Latitude": 41.0829418566973,
           "Longitude": 29.034968912601474,
           "ColorR": 1,
@@ -1839,7 +2015,7 @@
           "HeadingDegrees": 108
         },
         {
-          "Name": "Tableau No. 2 — Mondrian",
+          "Name": "Tableau No. 2 \u2014 Mondrian",
           "Latitude": 41.082794269556764,
           "Longitude": 29.035253226757053,
           "ColorR": 1,
@@ -1853,7 +2029,7 @@
           "HeadingDegrees": 132
         },
         {
-          "Name": "Landscape — Scharl",
+          "Name": "Landscape \u2014 Scharl",
           "Latitude": 41.08334620332962,
           "Longitude": 29.03496623039246,
           "ColorR": 1,
@@ -1869,15 +2045,15 @@
       ]
     },
     {
-      "Name": "Naoshima · Curitiba",
+      "Name": "Naoshima \u00b7 Curitiba",
       "CreatedAtIso": "2026-06-22T00:00:00",
       "CenterLatitude": -25.4336,
       "CenterLongitude": -49.27542,
       "Anchors": [
         {
           "Name": "Chichu Art Museum Naoshima Island",
-          "Latitude": -25.433204743083003,
-          "Longitude": -49.27542,
+          "Latitude": -25.433021577217833,
+          "Longitude": -49.27552163600922,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -1904,8 +2080,8 @@
         },
         {
           "Name": "Benesse House01S3200",
-          "Latitude": -25.4332674887222,
-          "Longitude": -49.275183375147705,
+          "Latitude": -25.433048222191413,
+          "Longitude": -49.27522122859955,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -1932,8 +2108,8 @@
         },
         {
           "Name": "Benesse House Museum Naoshima",
-          "Latitude": -25.433435804342686,
-          "Longitude": -49.275021877014105,
+          "Latitude": -25.433309827073668,
+          "Longitude": -49.27549213171005,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -1974,8 +2150,8 @@
         },
         {
           "Name": "Part Of The Benesse House",
-          "Latitude": -25.433928391314623,
-          "Longitude": -49.27462375402822,
+          "Latitude": -25.43375310071635,
+          "Longitude": -49.27467942237855,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -2002,8 +2178,8 @@
         },
         {
           "Name": "Benesse House Park Naoshima",
-          "Latitude": -25.434265022555596,
-          "Longitude": -49.27494675029542,
+          "Latitude": -25.434058304571494,
+          "Longitude": -49.27482962608338,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -2016,8 +2192,8 @@
         },
         {
           "Name": "Benesse House Park Naoshima",
-          "Latitude": -25.433979246234628,
-          "Longitude": -49.27529669276441,
+          "Latitude": -25.43399290381048,
+          "Longitude": -49.275379478931434,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -2044,8 +2220,8 @@
         },
         {
           "Name": "Benesse House Beach Naoshima",
-          "Latitude": -25.433979246234628,
-          "Longitude": -49.27554330723559,
+          "Latitude": -25.43354963105007,
+          "Longitude": -49.27533924579621,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -2072,8 +2248,8 @@
         },
         {
           "Name": "Chichu Art Museum02S2560",
-          "Latitude": -25.43385883823476,
-          "Longitude": -49.275750772530714,
+          "Latitude": -25.433782167783498,
+          "Longitude": -49.275784492492676,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -2100,8 +2276,8 @@
         },
         {
           "Name": "Bakery Wall Portrait",
-          "Latitude": -25.433656250924216,
-          "Longitude": -49.27585321988447,
+          "Latitude": -25.43358838720347,
+          "Longitude": -49.27606612443925,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -2113,7 +2289,7 @@
           "HeadingDegrees": 81
         },
         {
-          "Name": "Figure Study — Cactus & Eye",
+          "Name": "Figure Study \u2014 Cactus & Eye",
           "Latitude": -25.43348749815156,
           "Longitude": -49.27628643976894,
           "ColorR": 1,
@@ -2127,9 +2303,9 @@
           "HeadingDegrees": 98
         },
         {
-          "Name": "Figure Study — Two Reclining",
-          "Latitude": -25.433435804342686,
-          "Longitude": -49.27581812298589,
+          "Name": "Figure Study \u2014 Two Reclining",
+          "Latitude": -25.433363116887445,
+          "Longitude": -49.276015162467964,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -2141,7 +2317,7 @@
           "HeadingDegrees": 114
         },
         {
-          "Name": "Figure Study — Reclining",
+          "Name": "Figure Study \u2014 Reclining",
           "Latitude": -25.433082323530478,
           "Longitude": -49.27608154506144,
           "ColorR": 1,
@@ -2155,9 +2331,9 @@
           "HeadingDegrees": 130
         },
         {
-          "Name": "Figure Study — Gesture",
-          "Latitude": -25.4332674887222,
-          "Longitude": -49.27565662485229,
+          "Name": "Figure Study \u2014 Gesture",
+          "Latitude": -25.43318144697095,
+          "Longitude": -49.27580058574677,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -2169,7 +2345,7 @@
           "HeadingDegrees": 147
         },
         {
-          "Name": "Figure Study — Unheimlich",
+          "Name": "Figure Study \u2014 Unheimlich",
           "Latitude": -25.43284150753074,
           "Longitude": -49.27566661447118,
           "ColorR": 1,
