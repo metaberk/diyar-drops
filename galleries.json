@@ -1890,8 +1890,8 @@
         },
         {
           "Name": "Three Squares Vertical Diagonal",
-          "Latitude": -25.43287782967775,
-          "Longitude": -49.27506396325626,
+          "Latitude": -25.43284150753074,
+          "Longitude": -49.27517338552882,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -1900,12 +1900,12 @@
           "ModelFile": "",
           "WidthMeters": 2.5,
           "HeightMeters": 0,
-          "HeadingDegrees": 204
+          "HeadingDegrees": 196
         },
         {
           "Name": "Benesse House01S3200",
-          "Latitude": -25.433335521499462,
-          "Longitude": -49.275094744250005,
+          "Latitude": -25.4332674887222,
+          "Longitude": -49.275183375147705,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -1914,12 +1914,12 @@
           "ModelFile": "",
           "WidthMeters": 2.5,
           "HeightMeters": 0,
-          "HeadingDegrees": 228
+          "HeadingDegrees": 212
         },
         {
           "Name": "Entrance To The Benesse House Complex On Naoshima",
-          "Latitude": -25.433355717791006,
-          "Longitude": -49.274587493091815,
+          "Latitude": -25.433082323530478,
+          "Longitude": -49.274758454938556,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -1928,12 +1928,12 @@
           "ModelFile": "",
           "WidthMeters": 2.5,
           "HeightMeters": 0,
-          "HeadingDegrees": 252
+          "HeadingDegrees": 229
         },
         {
           "Name": "Benesse House Museum Naoshima",
-          "Latitude": -25.433641315598127,
-          "Longitude": -49.274984722845566,
+          "Latitude": -25.433435804342686,
+          "Longitude": -49.275021877014105,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -1942,12 +1942,12 @@
           "ModelFile": "",
           "WidthMeters": 2.5,
           "HeightMeters": 0,
-          "HeadingDegrees": 276
+          "HeadingDegrees": 245
         },
         {
           "Name": "Benesse Art House 6900628038",
-          "Latitude": -25.433995256916994,
-          "Longitude": -49.2746619250392,
+          "Latitude": -25.43348749815156,
+          "Longitude": -49.274553560231055,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -1956,12 +1956,12 @@
           "ModelFile": "",
           "WidthMeters": 2.5,
           "HeightMeters": 0,
-          "HeadingDegrees": 300
+          "HeadingDegrees": 261
         },
         {
           "Name": "Entrance To The Benesse House Museum",
-          "Latitude": -25.433919769562994,
-          "Longitude": -49.275162741217436,
+          "Latitude": -25.433656250924216,
+          "Longitude": -49.274986780115526,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -1970,12 +1970,12 @@
           "ModelFile": "",
           "WidthMeters": 2.5,
           "HeightMeters": 0,
-          "HeadingDegrees": 324
+          "HeadingDegrees": 278
         },
         {
           "Name": "Part Of The Benesse House",
-          "Latitude": -25.434373239210064,
-          "Longitude": -49.275238004591806,
+          "Latitude": -25.433928391314623,
+          "Longitude": -49.27462375402822,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -1984,12 +1984,12 @@
           "ModelFile": "",
           "WidthMeters": 2.5,
           "HeightMeters": 0,
-          "HeadingDegrees": 348
+          "HeadingDegrees": 294
         },
         {
           "Name": "Benesse House Park Naoshima",
-          "Latitude": -25.433986619605033,
-          "Longitude": -49.275510997704096,
+          "Latitude": -25.43385883823476,
+          "Longitude": -49.27508922746928,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -1998,12 +1998,12 @@
           "ModelFile": "",
           "WidthMeters": 2.5,
           "HeightMeters": 0,
-          "HeadingDegrees": 12
+          "HeadingDegrees": 310
         },
         {
           "Name": "Benesse House Park Naoshima",
-          "Latitude": -25.434239539125986,
-          "Longitude": -49.27593451756512,
+          "Latitude": -25.434265022555596,
+          "Longitude": -49.27494675029542,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -2012,12 +2012,12 @@
           "ModelFile": "",
           "WidthMeters": 2.5,
           "HeightMeters": 0,
-          "HeadingDegrees": 36
+          "HeadingDegrees": 327
         },
         {
           "Name": "Benesse House Park Naoshima",
-          "Latitude": -25.433797628458496,
-          "Longitude": -49.2757990374804,
+          "Latitude": -25.433979246234628,
+          "Longitude": -49.27529669276441,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -2026,12 +2026,12 @@
           "ModelFile": "",
           "WidthMeters": 2.5,
           "HeightMeters": 0,
-          "HeadingDegrees": 60
+          "HeadingDegrees": 343
         },
         {
           "Name": "Benesse House Beach Naoshima",
-          "Latitude": -25.43368263119626,
-          "Longitude": -49.27629055430886,
+          "Latitude": -25.43439051383399,
+          "Longitude": -49.27542,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -2040,12 +2040,12 @@
           "ModelFile": "",
           "WidthMeters": 2.5,
           "HeightMeters": 0,
-          "HeadingDegrees": 84
+          "HeadingDegrees": 0
         },
         {
           "Name": "Benesse House Beach Naoshima",
-          "Latitude": -25.433477858895504,
-          "Longitude": -49.27583625345409,
+          "Latitude": -25.433979246234628,
+          "Longitude": -49.27554330723559,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -2054,12 +2054,12 @@
           "ModelFile": "",
           "WidthMeters": 2.5,
           "HeightMeters": 0,
-          "HeadingDegrees": 108
+          "HeadingDegrees": 16
         },
         {
           "Name": "Benesse House Park Naoshima",
-          "Latitude": -25.433071042998925,
-          "Longitude": -49.27607051149998,
+          "Latitude": -25.434265022555596,
+          "Longitude": -49.27589324970457,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -2068,12 +2068,12 @@
           "ModelFile": "",
           "WidthMeters": 2.5,
           "HeightMeters": 0,
-          "HeadingDegrees": 132
+          "HeadingDegrees": 32
         },
         {
           "Name": "Chichu Art Museum02S2560",
-          "Latitude": -25.433238914838874,
-          "Longitude": -49.275598018371866,
+          "Latitude": -25.43385883823476,
+          "Longitude": -49.275750772530714,
           "ColorR": 1,
           "ColorG": 0.85,
           "ColorB": 0.2,
@@ -2082,7 +2082,105 @@
           "ModelFile": "",
           "WidthMeters": 2.5,
           "HeightMeters": 0,
-          "HeadingDegrees": 156
+          "HeadingDegrees": 49
+        },
+        {
+          "Name": "Seaside Deck",
+          "Latitude": -25.433928391314623,
+          "Longitude": -49.276216245971774,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "seaside-deck-self-9f483426.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 65
+        },
+        {
+          "Name": "Bakery Wall Portrait",
+          "Latitude": -25.433656250924216,
+          "Longitude": -49.27585321988447,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "bakery-wall-portrait-self-9f1b531f.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 81
+        },
+        {
+          "Name": "Figure Study — Cactus & Eye",
+          "Latitude": -25.43348749815156,
+          "Longitude": -49.27628643976894,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "figure-study-cactus-eye-self-602ed746.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 98
+        },
+        {
+          "Name": "Figure Study — Two Reclining",
+          "Latitude": -25.433435804342686,
+          "Longitude": -49.27581812298589,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "figure-study-two-reclining-self-dc2435ef.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 114
+        },
+        {
+          "Name": "Figure Study — Reclining",
+          "Latitude": -25.433082323530478,
+          "Longitude": -49.27608154506144,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "figure-study-reclining-self-27427154.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 130
+        },
+        {
+          "Name": "Figure Study — Gesture",
+          "Latitude": -25.4332674887222,
+          "Longitude": -49.27565662485229,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "figure-study-gesture-self-afa9c3cb.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 147
+        },
+        {
+          "Name": "Figure Study — Unheimlich",
+          "Latitude": -25.43284150753074,
+          "Longitude": -49.27566661447118,
+          "ColorR": 1,
+          "ColorG": 0.85,
+          "ColorB": 0.2,
+          "Kind": "image",
+          "ImageFile": "figure-study-unheimlich-self-28d9059c.jpg",
+          "ModelFile": "",
+          "WidthMeters": 2.5,
+          "HeightMeters": 0,
+          "HeadingDegrees": 163
         }
       ]
     }
